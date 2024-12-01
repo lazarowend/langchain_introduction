@@ -1,0 +1,1 @@
+O processador xeon e5-2673 v3 é um processador de 14 nucleos e 24 threads, com clock base de 2.4ghz e com o turbo de 3.0ghz.

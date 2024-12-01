@@ -1,0 +1,6 @@
+.env
+/venv
+genai_cache.db
+
+
+__pycache__
